@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wpiedata>
+  <item>
+    <id><![CDATA[32]]></id>
+    <title><![CDATA[DestinationsOk]]></title>
+    <content><![CDATA[<style>/*! elementor - v3.5.6 - 28-02-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1>Destinations</h1>
+<style>/*! elementor - v3.5.6 - 28-02-2022 */
+body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>
+<style>/*! elementor - v3.5.6 - 28-02-2022 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><h2>Île Maurice</h2><p>Lorem ipsm dolor amet, consec tetur adipis cing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco la enim lorem isae ni.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae leo lacinia, mattis odio eget, laoreet justo. Integer tempor ipsum sit amet mi sodales, eget fringilla elit tempor. Vivamus urna sapien, ultricies id tortor sed, tincidunt vehicula est. Etiam sit amet vulputate risus, at bibendum nunc. Quisque sodales, risus at congue egestas, leo elit viverra augue, nec dapibus enim est laoreet purus. Nullam quis neque auctor, viverra lacus ac, sagittis erat. Etiam eu tincidunt lectus.</p>
+<a href="http://localhost:8888/3semainesailleurs/contact/" role="button">
+Contact
+</a>
+<h2>Norvège</h2><p>Lorem ipsm dolor amet, consec tetur adipis cing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco la enim lorem isae ni.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae leo lacinia, mattis odio eget, laoreet justo. Integer tempor ipsum sit amet mi sodales, eget fringilla elit tempor. Vivamus urna sapien, ultricies id tortor sed, tincidunt vehicula est. Etiam sit amet vulputate risus, at bibendum nunc. Quisque sodales, risus at congue egestas, leo elit viverra augue, nec dapibus enim est laoreet purus. Nullam quis neque auctor, viverra lacus ac, sagittis erat. Etiam eu tincidunt lectus.</p>
+<a href="http://localhost:8888/3semainesailleurs/contact/" role="button">
+Contact
+</a>
+<h2>Toscane</h2><p>Lorem ipsm dolor amet, consec tetur adipis cing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco la enim lorem isae ni.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae leo lacinia, mattis odio eget, laoreet justo. Integer tempor ipsum sit amet mi sodales, eget fringilla elit tempor. Vivamus urna sapien, ultricies id tortor sed, tincidunt vehicula est. Etiam sit amet vulputate risus, at bibendum nunc. Quisque sodales, risus at congue egestas, leo elit viverra augue, nec dapibus enim est laoreet purus. Nullam quis neque auctor, viverra lacus ac, sagittis erat. Etiam eu tincidunt lectus.</p>
+<a href="http://localhost:8888/3semainesailleurs/contact/" role="button">
+Contact
+</a>
+<h2>Croatie</h2><p>Lorem ipsm dolor amet, consec tetur adipis cing elit, sed do eiusmod tempor incid idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exer citation ullamco la enim lorem isae ni.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vitae leo lacinia, mattis odio eget, laoreet justo. Integer tempor ipsum sit amet mi sodales, eget fringilla elit tempor. Vivamus urna sapien, ultricies id tortor sed, tincidunt vehicula est. Etiam sit amet vulputate risus, at bibendum nunc. Quisque sodales, risus at congue egestas, leo elit viverra augue, nec dapibus enim est laoreet purus. Nullam quis neque auctor, viverra lacus ac, sagittis erat. Etiam eu tincidunt lectus.</p>
+<a href="http://localhost:8888/3semainesailleurs/contact/" role="button">
+Contact
+</a>]]></content>
+    <excerpt></excerpt>
+    <date><![CDATA[2020-04-13 09:18:50]]></date>
+    <posttype><![CDATA[page]]></posttype>
+    <permalink><![CDATA[http://localhost:8888/3semainesailleurs/destinationsok/]]></permalink>
+  </item>
+</wpiedata>
